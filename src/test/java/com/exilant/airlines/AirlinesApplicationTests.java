@@ -11,6 +11,7 @@ public class AirlinesApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("testing processed ........");
 	}
 
 }
